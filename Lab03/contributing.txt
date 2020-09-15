@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-modify first line without conflict
-it will make conflict
-=======
-add first
-how about this?
->>>>>>> test
+remote
