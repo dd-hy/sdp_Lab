@@ -1,1 +1,2 @@
 modify first line without conflict
+it will make conflict
