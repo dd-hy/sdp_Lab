@@ -1,1 +1,1 @@
-add first
+modify first line without conflict
